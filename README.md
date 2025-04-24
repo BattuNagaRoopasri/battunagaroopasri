@@ -63,7 +63,7 @@
 |--------|-------------|-----------|
 | 🧬 **Hepatitis C Prediction** | Machine learning model to predict Hepatitis C using medical datasets | Python, Pandas, Sklearn |
 | 🧠 **Crazy Math Game** | Arithmetic game with fun UI and responsive design | HTML, CSS, JS |
-| 📚 **MERN Online Exam System** | Web app for secure online testing | MongoDB, Express, React, Node.js |
+| 📚 **Online Exam System** | Web app for secure online testing | MongoDB, Express, React, Node.js |
 | 🤟 **Sign Language Recognition** | CNN-based ASL gesture recognizer with 89.75% accuracy | Python, OpenCV, TensorFlow |
 
 ---

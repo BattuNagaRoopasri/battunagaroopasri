@@ -15,8 +15,8 @@
 ## 📚 Education
 
 - 🎓 **PVPSIT**, B.Tech in Computer Science Engineering — *CGPA: 7.98* (2022–Present)  
-- 🏫 **Narayana Junior College** — *CGPA: 9.17* (2020–2022)  
-- 🏫 **Krishna Chaitanya EM School** — *CGPA: 9.65* (2019–2020)  
+- 🏫 **Narayana Junior College** — *PERCENTAGE: 91.7%* (2020–2022)  
+- 🏫 **Krishna Chaitanya EM School** — *PERCENTAGE: 96.5%* (2019–2020)  
 
 ---
 

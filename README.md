@@ -48,14 +48,6 @@
 
 ---
 
-## 📜 Certifications
-
-- 🧑‍💻 **C Basic** – HackerRank  
-- 🔐 **Cybersecurity Virtual Internship** – EduSkills  
-- 📚 **NPTEL** – Programming in Java, DBMS, Soft Skills  
-- 🔒 **Zscaler Cybersecurity**  
-
----
 
 ## 🚀 Projects
 

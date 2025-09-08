@@ -34,7 +34,6 @@
 
 ### 🎨 UI/UX Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat&logo=adobe)
 
 ---
 

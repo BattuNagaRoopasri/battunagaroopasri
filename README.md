@@ -40,10 +40,8 @@
 ## 💼 Soft Skills
 
 ✅ Teamwork  
-✅ Time Management  
-✅ Leadership  
-✅ Communication  
-✅ Critical Thinking  
+✅ Time Management   
+✅ Active Listening   
 
 ---
 

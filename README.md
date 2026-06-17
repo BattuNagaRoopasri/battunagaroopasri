@@ -56,7 +56,6 @@
 ✅ Time Management   
 ✅ Active Listening   
 ✅ Problem Solving
-✅ Communication Skills
 ---
 
 

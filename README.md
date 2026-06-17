@@ -4,11 +4,17 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Naga Roopa Sri Battu</h1>
-<h3 align="center">Aspiring Computer Science Engineer | 💻 Developer | </h3>
+<h3 align="center">Aspiring Software Engineer | 💻 Developer | </h3>
+
+## 🌐 Portfolio
+
+🚀 Check out my personal portfolio website:
+
+🔗 **Portfolio:** https://portfolio-blush-tau-27.vercel.app/
 
 ---
 
-🎓 I'm a B.Tech CSE student at **PVPSIT**, passionate about software development, cybersecurity, and building creative solutions with technology. I enjoy learning new tools, collaborating on projects, and solving real-world problems.
+🎓 I'm a Computer Science Engineering graduate from Prasad V. Potluri Siddhartha Institute of Technology (PVPSIT) with a CGPA of 8.11. Passionate about software development, full-stack web applications, and solving real-world problems through technology. I enjoy learning new technologies, building innovative projects, and continuously improving my problem-solving skills.
 
 ---
 
@@ -35,14 +41,22 @@
 ### 🎨 UI/UX Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
----
 
-## 💼 Soft Skills
+### 📖 Core CS Concepts
+
+![DSA](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-4CAF50?style=flat&logo=codeforces&logoColor=white)
+![OOP](https://img.shields.io/badge/-Object%20Oriented%20Programming-FF9800?style=flat&logo=java&logoColor=white)
+![DBMS](https://img.shields.io/badge/-DBMS-2196F3?style=flat&logo=mysql&logoColor=white)
+![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-9C27B0?style=flat&logo=linux&logoColor=white)
+![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-F44336?style=flat&logo=cisco&logoColor=white)
+
+### 💼 Soft Skills
 
 ✅ Teamwork  
 ✅ Time Management   
 ✅ Active Listening   
-
+✅ Problem Solving
+✅ Communication Skills
 ---
 
 
@@ -50,6 +64,7 @@
 
 | Project | Description | Tech Used |
 |--------|-------------|-----------|
+|🥗 **NutriWise** | AI-powered nutrition assistant that provides personalized diet recommendations | MERN Stack, OpenAI API
 | 📚 **Online Exam System** | Web app for secure online testing | MongoDB, Express, React, Node.js |
 | 🤟 **Sign Language Recognition** | CNN-based ASL gesture recognizer with 89.75% accuracy | Python, OpenCV, TensorFlow |
 | 🧬 **Hepatitis C Prediction** | Machine learning model to predict Hepatitis C using medical datasets | Python, Pandas, Sklearn |

@@ -76,13 +76,3 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/naga-roopasri-battu-b88b95282/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/BattuNagaRoopasri)
 [![Gmail](https://img.shields.io/badge/-roopasri.0812@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:roopasri.0812@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BattuNagaRoopasri&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BattuNagaRoopasri&layout=compact&theme=radical" alt="Top Languages">
-</p>

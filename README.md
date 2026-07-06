@@ -10,7 +10,7 @@
 
 🚀 Check out my personal portfolio website:
 
-🔗 **Portfolio:** https://portfolio-blush-tau-27.vercel.app/
+🔗 **Portfolio:** https://roopasri-portfolio13.vercel.app/
 
 ---
 

@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Naga Roopa Sri Battu</h1>
-<h3 align="center">Aspiring Software Engineer | 💻 Developer | </h3>
+<h3 align="center">Aspiring Software Engineer | 💻 Developer </h3>
 
 ## 🌐 Portfolio
 
@@ -37,6 +37,10 @@
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![ReactJs](https://img.shields.io/badge/-ReactJs-1572B6?style=flat&logo=ReactJs)
+![Rest APIs](https://img.shields.io/badge/-Rest%20APIs-FF9800?style=flat&logo=java&logoColor=white)
+![NodeJs](https://img.shields.io/badge/-NodeJs-1572B6?style=flat&logo=NodeJs)
+
 
 ### 🎨 UI/UX Design
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
@@ -50,12 +54,12 @@
 ![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-9C27B0?style=flat&logo=linux&logoColor=white)
 ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-F44336?style=flat&logo=cisco&logoColor=white)
 
-### 💼 Soft Skills
+#### 💼 Soft Skills
 
-✅ Teamwork  
-✅ Time Management   
-✅ Active Listening   
-✅ Problem Solving
+#### ✅ Teamwork  
+#### ✅ Time Management   
+#### ✅ Active Listening   
+#### ✅ Problem Solving
 ---
 
 

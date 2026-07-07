@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Naga Roopa Sri Battu</h1>
-<h3 align="center">Aspiring Software Engineer | 💻 Developer </h3>
+<h3 align="center">Aspiring Software Engineer | 💻 Full Stack Developer </h3>
 
 ## 🌐 Portfolio
 

@@ -37,9 +37,12 @@
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-E34F26?style=flat&logo=SQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-FF9800?style=flat&logo=java&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-1572B6?style=flat&logo=ReactJs)
 ![Rest APIs](https://img.shields.io/badge/-Rest%20APIs-FF9800?style=flat&logo=java&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/-NodeJs-1572B6?style=flat&logo=NodeJs)
+
 
 
 ### 🎨 UI/UX Design

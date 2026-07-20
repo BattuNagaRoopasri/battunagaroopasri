@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 660" width="420" height="660" role="img" aria-label="Megha Mittal ID card lanyard">
-<title>Megha Mittal — swinging ID badge</title>
+<title>Battu Naga Roopa Sri — swinging ID badge</title>
 <defs>
 <style type="text/css"><![CDATA[
 text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
@@ -96,8 +96,8 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <path transform="translate(168.2,0) scale(0.03000,-0.03000)" d="M35 158Q35 238 72.0 309.5Q109 381 170.5 424.5Q232 468 301 468Q323 468 330.5 459.5Q338 451 343 429Q364 433 387 433Q436 433 436 398Q436 377 421 298Q398 183 398 138Q398 123 405.5 114.0Q413 105 425 105Q444 105 471.0 129.5Q498 154 544 209Q556 223 571 223Q584 223 591.5 211.0Q599 199 599 178Q599 138 580 116Q539 65 493.0 30.0Q447 -5 404 -5Q371 -5 343.5 17.5Q316 40 302 79Q250 -5 171 -5Q109 -5 72.0 40.0Q35 85 35 158ZM278 191 315 375Q273 374 237.5 343.5Q202 313 181.0 263.0Q160 213 160 157Q160 126 172.5 111.0Q185 96 207 96Q229 96 249.0 122.0Q269 148 278 191Z"/>
     <path transform="translate(182.2,0) scale(0.03000,-0.03000)" d="M455 178Q455 138 436 116Q393 63 342.5 29.0Q292 -5 228 -5Q140 -5 97.5 75.0Q55 155 55 282Q55 404 86.5 560.0Q118 716 179.5 828.0Q241 940 326 940Q374 940 401.5 895.5Q429 851 429 768Q429 649 363.0 492.0Q297 335 184 181Q191 140 207.0 122.5Q223 105 249 105Q290 105 321.0 128.5Q352 152 400 209Q412 223 427 223Q440 223 447.5 211.0Q455 199 455 178ZM177 316Q248 433 290.0 550.5Q332 668 332 765Q332 841 304 841Q281 841 252.0 758.0Q223 675 201.0 552.0Q179 429 177 316Z"/>
       </g>
-      <text x="210" y="540" text-anchor="middle" font-size="11" fill="#e879f9" font-weight="bold" letter-spacing="2.5">FRONTEND DEVELOPER</text>
-      <text x="210" y="558" text-anchor="middle" font-size="10.5" fill="#8b949e">@Meghamittal0920</text>
+      <text x="210" y="540" text-anchor="middle" font-size="11" fill="#e879f9" font-weight="bold" letter-spacing="2.5">FULLSTACK DEVELOPER</text>
+      <text x="210" y="558" text-anchor="middle" font-size="10.5" fill="#8b949e">@battunagaroopasri</text>
 
       <line x1="100" y1="572" x2="320" y2="572" stroke="#2a1f3d" stroke-width="1"/>
 

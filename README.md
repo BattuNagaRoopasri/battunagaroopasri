@@ -136,7 +136,7 @@ An interactive math-focused web application.
 
 **Tech:** HTML · CSS · JavaScript
 
-<a href="https://math-quest-six.vercel.app/b8e7c5e8-93b7-4a56-b2ed-e5d60705f613/map">
+<a href="https://rupa-mathquest.netlify.app/">
   <img src="https://img.shields.io/badge/Explore%20Project-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore MathQuest"/>
 </a>
 
